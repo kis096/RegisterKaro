@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';  // Import your CSS file here
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { ThemeProvider } from 'styled-components'; 
+import { ThemeProvider } from 'styled-components';
 
 import Home from './Components/Home';
 import OurService from './Components/OurService';
