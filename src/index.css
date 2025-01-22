@@ -1,0 +1,17 @@
+/* index.css */
+
+/* Global styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  /* Linear gradient from orange to grey (grey on the right) */
+  background: linear-gradient(90deg, rgb(212, 209, 209), rgb(199, 174, 129));
+}
+
+/* Additional global styles */
+h1, h2, h3 {
+  font-family: 'Helvetica', sans-serif;
+}
+
+/* Add other global styles here */
